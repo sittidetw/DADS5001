@@ -1,0 +1,7 @@
+pandas
+streamlit
+pymongo
+plotly
+certifi
+watchdog
+statsmodels
